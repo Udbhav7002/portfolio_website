@@ -32,7 +32,7 @@ Inspired by the design language of [Paper Trail](https://paper-trail-lilac.verce
 
 ```bash
 # Clone repository
-git clone https://github.com/Udbhav7002/portfolio.git
+git clone https://github.com/Udbhav7002/portfolio_website.git
 cd portfolio
 
 # Install dependencies
@@ -53,11 +53,11 @@ This repository includes a pre-configured `vercel.json` for seamless zero-config
 
 1. Push this repository to your GitHub account:
    ```bash
-   git remote add origin https://github.com/Udbhav7002/portfolio.git
+   git remote add origin https://github.com/Udbhav7002/portfolio_website.git
    git branch -M main
    git push -u origin main
    ```
-2. Go to [Vercel](https://vercel.com/new), select your `portfolio` repository, and click **Deploy**.
+2. Go to [Vercel](https://vercel.com/new), select your `portfolio_website` repository, and click **Deploy**.
 
 ---
 
