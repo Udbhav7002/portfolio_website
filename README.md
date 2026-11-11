@@ -1,5 +1,7 @@
 # Developer Dossier
 
+[![CI](https://github.com/Udbhav7002/portfolio_website/actions/workflows/ci.yml/badge.svg)](https://github.com/Udbhav7002/portfolio_website/actions/workflows/ci.yml)
+
 A single-page portfolio site presenting projects, skills, and an engineering timeline as an interactive dossier: a searchable project catalog, per-project detail pages, a chronological story view, and an in-app resume modal.
 
 ## Tech stack
